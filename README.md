@@ -23,7 +23,7 @@ This project was a lesson from the [Devquest](https://devemdobro.com/matriculas-
 
 ### Links
 
-- Live Site URL: [Live site URL here](https://otaviano-manoel.github.io/product-card-grid/)
+- Live Site URL: [Live site URL here](https://otaviano-manoel.github.io/landing-page/)
 
 ## My process
 
